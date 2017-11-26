@@ -20,6 +20,8 @@ namespace Test3
 
             Console.WriteLine("dshfgsdgfdshkfdsh");
             Console.WriteLine("dsfgudyfgsdgfvjdf");
+
+            string name; 
         }
     }
 }
