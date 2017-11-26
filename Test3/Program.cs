@@ -15,6 +15,7 @@ namespace Test3
             Console.WriteLine("testtttttt");
 
             Console.WriteLine("dyh");
+            Console.WriteLine();
         }
     }
 }
